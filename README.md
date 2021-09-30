@@ -1,8 +1,8 @@
 # Aimbot
-Programa de AimBot hecho con TensorFlow (deteccion automatica de objetos)
+Aimbot program for csgo made with TensorFlow (automatic object detection)
 
-# Advertencia
-No me hago responsable de Sanciones por este Programa, es muy facil de detectar
+# Warning
+This could get you banned
 
-# Compatibilidad
-Solo Windows 10 por el momento
+# OS
+Only Win 10 you must have Python 3.0+ installed 
