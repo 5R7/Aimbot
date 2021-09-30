@@ -8,6 +8,9 @@ import cv2
 import math
 import time
 
+print("CAUTION: THIS CAN GET YOU BANNED IN CSGO.")
+print("CUIDADo: PUEDES QUEDAR BANEADO EN CSGO POR UTILIZAR ESTE PROGRAMA.")
+
 detector = hub.load("https://tfhub.dev/tensorflow/centernet/resnet50v1_fpn_512x512/1")
 size_scale = 3
 
